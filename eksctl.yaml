@@ -9,4 +9,4 @@ nodeGroups:
           ebs: true
 addons:
 - name: aws-ebs-csi-driver
-  serviceAccountRoleARN: arn:aws:iam::390671053954:role/AmazonEKS_EBS_CSI_DriverRole-redpanda
+  serviceAccountRoleARN: arn:aws:iam::<<AWS-Acount-id>>:role/AmazonEKS_EBS_CSI_DriverRole-redpanda
