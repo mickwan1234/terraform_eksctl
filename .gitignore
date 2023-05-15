@@ -1,0 +1,4 @@
+.shoal
+.terraform
+.terraform.*
+terraform.*
